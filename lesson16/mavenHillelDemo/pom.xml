@@ -16,13 +16,11 @@
     </properties>
 
 <dependencies>
-
     <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-java</artifactId>
         <version>${webdriver.script}</version>
     </dependency>
-
     <dependency>
         <groupId>io.github.bonigarcia</groupId>
         <artifactId>webdrivermanager</artifactId>
