@@ -14,7 +14,6 @@ import static org.testng.Assert.*;
 public class Shopping {
     private static WebDriver driver;
 
-
     @BeforeClass
     static void setUp() {
 
